@@ -29,7 +29,7 @@ export const products = [
     id: 2,
     image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hbc/h0a/49939925205022/xiaomi-redmi-10c-4-gb-128-gb-seryj-104417231-1.jpg",
     name: "НСмартфон Xiaomi Redmi 10C 4 ГБ/128 ГБ серый",
-    price: 699,
+    price: 857,
     description: 'технология NFC: Нет\n' +
         'цвет: серый\n' +
         'тип экрана: IPS, сенсорный, мультитач\n' +
@@ -45,7 +45,7 @@ export const products = [
     id: 3,
       image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h00/h18/62948780834846/apple-iphone-14-pro-max-128gb-fioletovyj-106363342-1.jpg",
       name: "Смартфон Apple iPhone 14 Pro Max 256Gb фиолетовый",
-      price: 699,
+      price: 384,
       description: 'технология NFC: Да\n' +
           'цвет: фиолетовый\n' +
           'тип экрана: OLED, Super Retina XDR display с возможностью постоянной работы\n' +
@@ -61,7 +61,7 @@ export const products = [
     id: 4,
     image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h89/hb5/49613818069022/smartfon-samsung-galaxy-a13-128gb-sm-a135flbkskz-blue-104253392-1.jpg",
     name: "Смартфон Samsung Galaxy A13 4 ГБ/128 ГБ голубой",
-    price: 699,
+    price: 685,
     description: 'технология NFC: Да\n' +
         'цвет: голубой\n' +
         'тип экрана: PLS TFT LCD сенсорный, мультитач\n' +
@@ -92,8 +92,8 @@ export const products = [
   {
     id: 6,
     image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h68/h07/49792674463774/samsung-galaxy-a23-128gb-peach-104347752-1.jpg",
-    name: "Смартфон Samsung Galaxy A23 6 ГБ/128 ГБ оранжевый",
-    price: 699,
+    name: "Смартфон Samsung Galaxy A23 6 ГБ/128 ГБ",
+    price: 987,
     description: 'технология NFC: Да\n' +
         'цвет: оранжевый\n' +
         'тип экрана: PLS TFT LCD сенсорный, мультитач\n' +
@@ -109,7 +109,7 @@ export const products = [
     id: 7,
     image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h91/h47/49566152032286/poco-x4-pro-8-256gb-cernyj-104227418-1.jpg",
     name: "Смартфон Poco X4 Pro 8 ГБ/256 ГБ черный",
-    price: 699,
+    price: 778,
     description: 'технология NFC: Да\n' +
         'цвет: черный\n' +
         'тип экрана: AMOLED, сенсорный, мультитач\n' +
@@ -125,7 +125,7 @@ export const products = [
     id: 8,
     image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hd6/h71/62288519757854/tecno-spark-9-pro-4-gb-128-gb-cernyj-106366803-1.jpg",
     name: "Смартфон TECNO Spark 9 Pro 4 ГБ/128 ГБ черный",
-    price: 699,
+    price: 857,
     description: 'технология NFC: Да\n' +
         'цвет: черный\n' +
         'тип экрана: цветной IPS, сенсорный\n' +
@@ -141,7 +141,7 @@ export const products = [
     id: 9,
     image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h31/h27/49939926581278/xiaomi-redmi-10c-4-gb-128-gb-goluboj-104417308-1.jpg",
     name: "Смартфон Xiaomi Redmi 10C 4 ГБ/128 ГБ голубой",
-    price: 699,
+    price: 998,
     description: 'технология NFC: Нет\n' +
         'цвет: голубой\n' +
         'тип экрана: IPS, сенсорный, мультитач\n' +
@@ -157,7 +157,7 @@ export const products = [
     id: 10,
     image: "https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h5e/ha3/63072545734686/apple-iphone-14-128gb-sirenevyj-106363117-1.jpg",
     name: "Смартфон Apple iPhone 14 128Gb сиреневый",
-    price: 699,
+    price: 679,
     description: 'технология NFC: Да\n' +
         'цвет: сиреневый\n' +
         'тип экрана: OLED, Super Retina XDR display\n' +
